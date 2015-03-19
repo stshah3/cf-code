@@ -1,0 +1,480 @@
+2015-02-04 17:04:04,801 INFO Connecting to Crazyflie...
+
+2015-02-04 17:04:04,802 INFO Callback->Connection initialized[radio://0/100/250K]
+2015-02-04 17:04:04,835 INFO We are connected[radio://0/100/250K], request connection setup
+2015-02-04 17:04:04,836 WARNING ExpectAnswer: ERROR! Older timer was running while scheduling new one on [5]
+2015-02-04 17:04:05,802 INFO Callback->Connected to [radio://0/100/250K]
+2015-02-04 17:04:05,802 ERROR Got packet that was not on TOC channel, TOC fetch will probably not succeed
+2015-02-04 17:04:05,803 WARNING [5]: Was expecting 0 but got 37
+2015-02-04 17:04:05,803 WARNING [5]: Was expecting 0 but got 37
+2015-02-04 17:04:05,803 WARNING [5]: Was expecting 0 but got 37
+2015-02-04 17:04:05,803 WARNING [5]: Was expecting 0 but got 37
+2015-02-04 17:04:06,687 WARNING Could not save cache, no writable directory
+2015-02-04 17:04:06,687 INFO Log TOC finished updating
+2015-02-04 17:04:07,546 WARNING Could not save cache, no writable directory
+2015-02-04 17:04:07,546 INFO Param TOC finished updating
+2015-02-04 17:04:07,546 INFO Callback->Connection setup finished [radio://0/100/250K]
+2015-02-04 17:04:07,546 INFO Connected to Crazyflie. Starting log...
+
+2015-02-04 17:04:07,549 WARNING ExpectAnswer: ERROR! Older timer was running while scheduling new one on [5]
+2015-02-04 17:04:07,551 WARNING ExpectAnswer: ERROR! Older timer was running while scheduling new one on [5]
+2015-02-04 17:04:07,552 WARNING ExpectAnswer: ERROR! Older timer was running while scheduling new one on [5]
+2015-02-04 17:04:07,553 WARNING ExpectAnswer: ERROR! Older timer was running while scheduling new one on [5]
+2015-02-04 17:04:07,572 INFO Have successfully started logging for block=1
+2015-02-04 17:04:07,573 INFO Have successfully started logging for block=2
+2015-02-04 17:04:07,578 INFO Have successfully started logging for block=3
+2015-02-04 17:04:07,578 INFO Have successfully started logging for block=4
+2015-02-04 17:04:07,585 INFO Have successfully started logging for block=5
+2015-02-04 17:04:08,591 INFO Id=42316, Accelerometer: x=-0.01, y=-0.06, z=0.99
+2015-02-04 17:04:08,592 INFO Id=42319, Gyro: x=0.67, y=6.23, z=-0.24
+2015-02-04 17:04:08,598 INFO Id=42321, Stabilizer: Roll=-2.59, Pitch=-1.81, Yaw=58.20, Thrust=0.00
+2015-02-04 17:04:08,599 INFO Id=42323, Barometer: asl=162.7596
+2015-02-04 17:04:08,601 INFO Id=42327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:09,601 INFO Id=43316, Accelerometer: x=-0.01, y=-0.06, z=0.99
+2015-02-04 17:04:09,601 INFO Id=43319, Gyro: x=0.43, y=0.79, z=-0.06
+2015-02-04 17:04:09,602 INFO Id=43321, Stabilizer: Roll=-2.63, Pitch=-1.64, Yaw=56.69, Thrust=0.00
+2015-02-04 17:04:09,602 INFO Id=43323, Barometer: asl=162.7589
+2015-02-04 17:04:09,602 INFO Id=43327, Battery Voltage(V): vbat=3.7981
+
+2015-02-04 17:04:10,602 INFO Id=44316, Accelerometer: x=-0.01, y=-0.06, z=0.99
+2015-02-04 17:04:10,604 INFO Id=44319, Gyro: x=-0.24, y=-11.05, z=1.16
+2015-02-04 17:04:10,604 INFO Id=44321, Stabilizer: Roll=-2.60, Pitch=-1.49, Yaw=57.20, Thrust=0.00
+2015-02-04 17:04:10,605 INFO Id=44323, Barometer: asl=162.8075
+2015-02-04 17:04:10,607 INFO Id=44327, Battery Voltage(V): vbat=3.7981
+
+2015-02-04 17:04:11,591 INFO Id=45316, Accelerometer: x=0.25, y=-0.07, z=0.96
+2015-02-04 17:04:11,591 INFO Id=45319, Gyro: x=7.69, y=-23.07, z=-0.55
+2015-02-04 17:04:11,591 INFO Id=45321, Stabilizer: Roll=-0.58, Pitch=14.30, Yaw=51.89, Thrust=0.00
+2015-02-04 17:04:11,591 INFO Id=45323, Barometer: asl=162.8910
+2015-02-04 17:04:11,591 INFO Id=45327, Battery Voltage(V): vbat=3.7981
+
+2015-02-04 17:04:12,592 INFO Id=46316, Accelerometer: x=0.47, y=-0.03, z=0.90
+2015-02-04 17:04:12,592 INFO Id=46319, Gyro: x=23.93, y=-0.37, z=-16.72
+2015-02-04 17:04:12,592 INFO Id=46321, Stabilizer: Roll=-2.97, Pitch=26.07, Yaw=50.61, Thrust=0.00
+2015-02-04 17:04:12,592 INFO Id=46323, Barometer: asl=162.8660
+2015-02-04 17:04:12,595 INFO Id=46327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:13,595 INFO Id=47316, Accelerometer: x=-0.28, y=-0.31, z=0.88
+2015-02-04 17:04:13,595 INFO Id=47319, Gyro: x=-37.66, y=47.79, z=40.16
+2015-02-04 17:04:13,595 INFO Id=47321, Stabilizer: Roll=-17.39, Pitch=-10.80, Yaw=30.86, Thrust=0.00
+2015-02-04 17:04:13,595 INFO Id=47323, Barometer: asl=162.8802
+2015-02-04 17:04:13,595 INFO Id=47327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:14,621 INFO Id=48316, Accelerometer: x=-0.66, y=-0.36, z=0.60
+2015-02-04 17:04:14,621 INFO Id=48319, Gyro: x=18.98, y=-16.11, z=-16.05
+2015-02-04 17:04:14,621 INFO Id=48321, Stabilizer: Roll=-32.01, Pitch=-44.01, Yaw=53.90, Thrust=0.00
+2015-02-04 17:04:14,621 INFO Id=48323, Barometer: asl=163.2394
+2015-02-04 17:04:14,622 INFO Id=48327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:15,605 INFO Id=49316, Accelerometer: x=-0.59, y=-0.38, z=0.67
+2015-02-04 17:04:15,605 INFO Id=49319, Gyro: x=6.65, y=9.22, z=-7.02
+2015-02-04 17:04:15,605 INFO Id=49321, Stabilizer: Roll=-30.46, Pitch=-39.11, Yaw=58.29, Thrust=0.00
+2015-02-04 17:04:15,605 INFO Id=49323, Barometer: asl=163.1834
+2015-02-04 17:04:15,605 INFO Id=49328, Battery Voltage(V): vbat=3.7981
+
+2015-02-04 17:04:16,588 INFO Id=50316, Accelerometer: x=-0.77, y=-0.24, z=0.59
+2015-02-04 17:04:16,588 INFO Id=50321, Stabilizer: Roll=-22.38, Pitch=-50.52, Yaw=80.40, Thrust=0.00
+2015-02-04 17:04:16,588 INFO Id=50323, Barometer: asl=163.0896
+2015-02-04 17:04:16,588 INFO Id=50327, Battery Voltage(V): vbat=3.7981
+
+2015-02-04 17:04:17,588 INFO Id=51316, Accelerometer: x=-0.59, y=-0.25, z=0.75
+2015-02-04 17:04:17,588 INFO Id=51319, Gyro: x=-18.31, y=24.35, z=-10.25
+2015-02-04 17:04:17,594 INFO Id=51321, Stabilizer: Roll=-15.74, Pitch=-35.28, Yaw=62.79, Thrust=0.00
+2015-02-04 17:04:17,594 INFO Id=51323, Barometer: asl=162.9553
+2015-02-04 17:04:17,598 INFO Id=51327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:18,578 INFO Id=52316, Accelerometer: x=-0.15, y=-0.25, z=0.97
+2015-02-04 17:04:18,578 INFO Id=52319, Gyro: x=116.39, y=-104.49, z=-1.34
+2015-02-04 17:04:18,578 INFO Id=52321, Stabilizer: Roll=-10.47, Pitch=-6.63, Yaw=-9.72, Thrust=0.00
+2015-02-04 17:04:18,581 INFO Id=52323, Barometer: asl=162.7289
+2015-02-04 17:04:18,582 INFO Id=52327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:19,586 INFO Id=53316, Accelerometer: x=-0.43, y=-0.47, z=0.76
+2015-02-04 17:04:19,598 INFO Id=53319, Gyro: x=23.01, y=15.56, z=-22.16
+2015-02-04 17:04:19,598 INFO Id=53321, Stabilizer: Roll=-30.22, Pitch=-24.60, Yaw=-12.08, Thrust=0.00
+2015-02-04 17:04:19,608 INFO Id=53323, Barometer: asl=162.8373
+2015-02-04 17:04:19,609 INFO Id=53327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:20,592 INFO Id=54319, Gyro: x=-7.02, y=-27.47, z=-84.72
+2015-02-04 17:04:20,592 INFO Id=54321, Stabilizer: Roll=-20.65, Pitch=-14.28, Yaw=-13.06, Thrust=0.00
+2015-02-04 17:04:20,592 INFO Id=54323, Barometer: asl=162.7577
+2015-02-04 17:04:20,592 INFO Id=54327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:21,592 INFO Id=55316, Accelerometer: x=0.25, y=-0.09, z=0.90
+2015-02-04 17:04:21,592 INFO Id=55319, Gyro: x=-5.74, y=23.62, z=-8.67
+2015-02-04 17:04:21,592 INFO Id=55321, Stabilizer: Roll=-5.49, Pitch=12.96, Yaw=-17.70, Thrust=0.00
+2015-02-04 17:04:21,592 INFO Id=55323, Barometer: asl=162.8191
+2015-02-04 17:04:21,594 INFO Id=55327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:22,595 INFO Id=56316, Accelerometer: x=0.19, y=-0.16, z=0.91
+2015-02-04 17:04:22,595 INFO Id=56319, Gyro: x=6.53, y=13.73, z=11.41
+2015-02-04 17:04:22,595 INFO Id=56321, Stabilizer: Roll=-8.47, Pitch=9.17, Yaw=-10.32, Thrust=0.00
+2015-02-04 17:04:22,601 INFO Id=56323, Barometer: asl=162.8231
+2015-02-04 17:04:22,601 INFO Id=56327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:23,582 INFO Id=57316, Accelerometer: x=0.04, y=-0.20, z=1.01
+2015-02-04 17:04:23,586 INFO Id=57319, Gyro: x=-5.86, y=5.31, z=-4.94
+2015-02-04 17:04:23,588 INFO Id=57321, Stabilizer: Roll=-8.50, Pitch=3.00, Yaw=-16.61, Thrust=0.00
+2015-02-04 17:04:23,592 INFO Id=57323, Barometer: asl=162.7496
+2015-02-04 17:04:23,592 INFO Id=57327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:24,595 INFO Id=58316, Accelerometer: x=-0.01, y=-0.33, z=0.95
+2015-02-04 17:04:24,595 INFO Id=58319, Gyro: x=4.58, y=3.05, z=-15.14
+2015-02-04 17:04:24,595 INFO Id=58321, Stabilizer: Roll=-14.50, Pitch=-4.77, Yaw=-2.35, Thrust=0.00
+2015-02-04 17:04:24,596 INFO Id=58323, Barometer: asl=162.7254
+2015-02-04 17:04:24,598 INFO Id=58327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:25,582 INFO Id=59316, Accelerometer: x=0.10, y=-0.17, z=1.06
+2015-02-04 17:04:25,582 INFO Id=59319, Gyro: x=-6.59, y=-16.85, z=7.08
+2015-02-04 17:04:25,592 INFO Id=59323, Barometer: asl=162.7112
+2015-02-04 17:04:25,592 INFO Id=59327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:26,592 INFO Id=60316, Accelerometer: x=0.11, y=-0.23, z=0.97
+2015-02-04 17:04:26,592 INFO Id=60319, Gyro: x=0.18, y=-7.14, z=-3.11
+2015-02-04 17:04:26,592 INFO Id=60321, Stabilizer: Roll=-12.17, Pitch=6.29, Yaw=-25.64, Thrust=0.00
+2015-02-04 17:04:26,595 INFO Id=60323, Barometer: asl=162.6626
+2015-02-04 17:04:26,599 INFO Id=60327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:27,581 INFO Id=61316, Accelerometer: x=0.10, y=-0.09, z=0.92
+2015-02-04 17:04:27,581 INFO Id=61319, Gyro: x=4.52, y=-6.23, z=-1.28
+2015-02-04 17:04:27,582 INFO Id=61321, Stabilizer: Roll=-6.94, Pitch=6.15, Yaw=-26.76, Thrust=0.00
+2015-02-04 17:04:27,585 INFO Id=61323, Barometer: asl=162.7209
+2015-02-04 17:04:27,589 INFO Id=61328, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:28,589 INFO Id=62316, Accelerometer: x=-0.00, y=-0.15, z=0.80
+2015-02-04 17:04:28,589 INFO Id=62319, Gyro: x=-1.59, y=10.19, z=-28.08
+2015-02-04 17:04:28,589 INFO Id=62321, Stabilizer: Roll=-10.37, Pitch=6.27, Yaw=-28.01, Thrust=0.00
+2015-02-04 17:04:28,591 INFO Id=62323, Barometer: asl=162.7063
+2015-02-04 17:04:28,595 INFO Id=62327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:29,596 INFO Id=63316, Accelerometer: x=0.38, y=-0.13, z=0.96
+2015-02-04 17:04:29,596 INFO Id=63319, Gyro: x=65.92, y=-37.05, z=17.15
+2015-02-04 17:04:29,596 INFO Id=63321, Stabilizer: Roll=-17.70, Pitch=13.26, Yaw=-30.06, Thrust=0.00
+2015-02-04 17:04:29,596 INFO Id=63323, Barometer: asl=162.4809
+2015-02-04 17:04:29,598 INFO Id=63327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:30,598 INFO Id=64316, Accelerometer: x=0.25, y=-0.14, z=0.86
+2015-02-04 17:04:30,598 INFO Id=64319, Gyro: x=-13.85, y=19.29, z=-27.16
+2015-02-04 17:04:30,599 INFO Id=64321, Stabilizer: Roll=-12.22, Pitch=16.79, Yaw=-30.99, Thrust=0.00
+2015-02-04 17:04:30,599 INFO Id=64323, Barometer: asl=162.5560
+2015-02-04 17:04:30,599 INFO Id=64327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:31,599 INFO Id=65316, Accelerometer: x=0.22, y=-0.26, z=0.89
+2015-02-04 17:04:31,599 INFO Id=65319, Gyro: x=-15.75, y=11.72, z=0.18
+2015-02-04 17:04:31,599 INFO Id=65321, Stabilizer: Roll=-14.89, Pitch=14.37, Yaw=-30.09, Thrust=0.00
+2015-02-04 17:04:31,599 INFO Id=65323, Barometer: asl=162.4103
+2015-02-04 17:04:31,601 INFO Id=65327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:32,582 INFO Id=66316, Accelerometer: x=0.28, y=-0.30, z=0.90
+2015-02-04 17:04:32,582 INFO Id=66319, Gyro: x=-12.57, y=10.62, z=1.40
+2015-02-04 17:04:32,582 INFO Id=66321, Stabilizer: Roll=-18.08, Pitch=13.96, Yaw=-25.03, Thrust=0.00
+2015-02-04 17:04:32,584 INFO Id=66323, Barometer: asl=162.4850
+2015-02-04 17:04:32,584 INFO Id=66327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:33,586 INFO Id=67316, Accelerometer: x=0.37, y=-0.41, z=0.94
+2015-02-04 17:04:33,592 INFO Id=67319, Gyro: x=0.55, y=-3.17, z=-7.20
+2015-02-04 17:04:33,594 INFO Id=67321, Stabilizer: Roll=-19.37, Pitch=16.19, Yaw=-27.56, Thrust=0.00
+2015-02-04 17:04:33,634 INFO Id=67323, Barometer: asl=162.6065
+2015-02-04 17:04:33,634 INFO Id=67327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:34,615 INFO Id=68316, Accelerometer: x=0.48, y=-0.21, z=1.00
+2015-02-04 17:04:34,615 INFO Id=68319, Gyro: x=56.03, y=-50.72, z=17.15
+2015-02-04 17:04:34,615 INFO Id=68321, Stabilizer: Roll=-18.89, Pitch=17.11, Yaw=-25.21, Thrust=0.00
+2015-02-04 17:04:34,615 INFO Id=68323, Barometer: asl=162.4189
+2015-02-04 17:04:34,615 INFO Id=68327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:35,598 INFO Id=69316, Accelerometer: x=0.20, y=-0.36, z=0.81
+2015-02-04 17:04:35,599 INFO Id=69319, Gyro: x=15.56, y=-2.99, z=31.25
+2015-02-04 17:04:35,599 INFO Id=69321, Stabilizer: Roll=-22.44, Pitch=10.50, Yaw=-28.28, Thrust=0.00
+2015-02-04 17:04:35,599 INFO Id=69323, Barometer: asl=162.4537
+2015-02-04 17:04:35,599 INFO Id=69327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:36,582 INFO Id=70316, Accelerometer: x=-0.11, y=-0.01, z=0.89
+2015-02-04 17:04:36,582 INFO Id=70319, Gyro: x=45.10, y=-0.24, z=46.26
+2015-02-04 17:04:36,582 INFO Id=70321, Stabilizer: Roll=-5.74, Pitch=-9.23, Yaw=-6.67, Thrust=0.00
+2015-02-04 17:04:36,582 INFO Id=70323, Barometer: asl=162.7319
+2015-02-04 17:04:36,582 INFO Id=70327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:37,588 INFO Id=71316, Accelerometer: x=0.13, y=-0.08, z=0.95
+2015-02-04 17:04:37,588 INFO Id=71319, Gyro: x=-14.22, y=-15.93, z=-2.38
+2015-02-04 17:04:37,592 INFO Id=71321, Stabilizer: Roll=-3.74, Pitch=5.44, Yaw=-19.23, Thrust=0.00
+2015-02-04 17:04:37,595 INFO Id=71323, Barometer: asl=162.7250
+2015-02-04 17:04:37,596 INFO Id=71327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:38,595 INFO Id=72316, Accelerometer: x=0.25, y=-0.03, z=0.96
+2015-02-04 17:04:38,595 INFO Id=72319, Gyro: x=3.60, y=-9.28, z=8.18
+2015-02-04 17:04:38,598 INFO Id=72321, Stabilizer: Roll=-2.25, Pitch=12.05, Yaw=-21.14, Thrust=0.00
+2015-02-04 17:04:38,599 INFO Id=72323, Barometer: asl=162.7352
+2015-02-04 17:04:38,605 INFO Id=72328, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:39,605 INFO Id=73316, Accelerometer: x=0.26, y=-0.10, z=0.96
+2015-02-04 17:04:39,605 INFO Id=73319, Gyro: x=-4.21, y=5.55, z=-5.74
+2015-02-04 17:04:39,605 INFO Id=73321, Stabilizer: Roll=-4.48, Pitch=12.45, Yaw=-21.98, Thrust=0.00
+2015-02-04 17:04:39,605 INFO Id=73323, Barometer: asl=162.7240
+2015-02-04 17:04:39,607 INFO Id=73327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:40,607 INFO Id=74316, Accelerometer: x=0.24, y=-0.13, z=0.96
+2015-02-04 17:04:40,607 INFO Id=74319, Gyro: x=0.49, y=-0.73, z=1.28
+2015-02-04 17:04:40,607 INFO Id=74321, Stabilizer: Roll=-6.07, Pitch=12.48, Yaw=-21.40, Thrust=0.00
+2015-02-04 17:04:40,608 INFO Id=74323, Barometer: asl=162.6579
+2015-02-04 17:04:40,608 INFO Id=74327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:41,592 INFO Id=75316, Accelerometer: x=0.24, y=-0.11, z=0.94
+2015-02-04 17:04:41,592 INFO Id=75319, Gyro: x=-2.32, y=2.62, z=-3.30
+2015-02-04 17:04:41,592 INFO Id=75321, Stabilizer: Roll=-6.03, Pitch=12.79, Yaw=-21.28, Thrust=0.00
+2015-02-04 17:04:41,594 INFO Id=75323, Barometer: asl=162.7297
+2015-02-04 17:04:41,595 INFO Id=75327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:42,575 INFO Id=76316, Accelerometer: x=0.33, y=-0.19, z=1.00
+2015-02-04 17:04:42,575 INFO Id=76319, Gyro: x=8.79, y=-2.75, z=4.52
+2015-02-04 17:04:42,581 INFO Id=76321, Stabilizer: Roll=-7.75, Pitch=13.53, Yaw=-19.74, Thrust=0.00
+2015-02-04 17:04:42,581 INFO Id=76323, Barometer: asl=162.5750
+2015-02-04 17:04:42,585 INFO Id=76327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:43,571 INFO Id=77316, Accelerometer: x=0.23, y=-0.15, z=0.95
+2015-02-04 17:04:43,575 INFO Id=77319, Gyro: x=0.92, y=-2.26, z=2.20
+2015-02-04 17:04:43,581 INFO Id=77321, Stabilizer: Roll=-8.43, Pitch=12.07, Yaw=-20.22, Thrust=0.00
+2015-02-04 17:04:43,582 INFO Id=77323, Barometer: asl=162.6385
+2015-02-04 17:04:43,585 INFO Id=77327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:44,591 INFO Id=78316, Accelerometer: x=-0.26, y=-0.30, z=0.89
+2015-02-04 17:04:44,592 INFO Id=78319, Gyro: x=-2.93, y=23.62, z=53.22
+2015-02-04 17:04:44,602 INFO Id=78321, Stabilizer: Roll=-14.86, Pitch=-18.86, Yaw=-8.41, Thrust=0.00
+2015-02-04 17:04:44,602 INFO Id=78323, Barometer: asl=162.6696
+2015-02-04 17:04:44,605 INFO Id=78327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:45,605 INFO Id=79316, Accelerometer: x=-0.37, y=-0.27, z=0.90
+2015-02-04 17:04:45,605 INFO Id=79319, Gyro: x=-20.32, y=17.64, z=-10.62
+2015-02-04 17:04:45,605 INFO Id=79321, Stabilizer: Roll=-15.89, Pitch=-22.94, Yaw=31.61, Thrust=0.00
+2015-02-04 17:04:45,605 INFO Id=79323, Barometer: asl=162.6411
+2015-02-04 17:04:45,605 INFO Id=79327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:46,602 INFO Id=80316, Accelerometer: x=-0.25, y=-0.32, z=0.90
+2015-02-04 17:04:46,604 INFO Id=80319, Gyro: x=7.63, y=2.44, z=-32.10
+2015-02-04 17:04:46,604 INFO Id=80321, Stabilizer: Roll=-20.46, Pitch=-18.51, Yaw=11.09, Thrust=0.00
+2015-02-04 17:04:46,604 INFO Id=80323, Barometer: asl=162.5933
+2015-02-04 17:04:46,605 INFO Id=80327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:47,607 INFO Id=81319, Gyro: x=1.65, y=6.47, z=0.49
+2015-02-04 17:04:47,608 INFO Id=81321, Stabilizer: Roll=-20.80, Pitch=-13.43, Yaw=-7.75, Thrust=0.00
+2015-02-04 17:04:47,609 INFO Id=81323, Barometer: asl=162.6509
+2015-02-04 17:04:47,611 INFO Id=81327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:48,592 INFO Id=82316, Accelerometer: x=-0.19, y=-0.34, z=0.93
+2015-02-04 17:04:48,630 INFO Id=82319, Gyro: x=6.59, y=-9.95, z=17.15
+2015-02-04 17:04:48,631 INFO Id=82321, Stabilizer: Roll=-19.62, Pitch=-13.05, Yaw=-10.70, Thrust=0.00
+2015-02-04 17:04:48,631 INFO Id=82323, Barometer: asl=162.6455
+2015-02-04 17:04:48,631 INFO Id=82327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:49,611 INFO Id=83316, Accelerometer: x=-0.49, y=-0.39, z=0.78
+2015-02-04 17:04:49,611 INFO Id=83319, Gyro: x=-2.26, y=-5.80, z=0.12
+2015-02-04 17:04:49,612 INFO Id=83321, Stabilizer: Roll=-25.13, Pitch=-29.80, Yaw=8.48, Thrust=0.00
+2015-02-04 17:04:49,612 INFO Id=83323, Barometer: asl=162.5768
+2015-02-04 17:04:49,614 INFO Id=83327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:50,592 INFO Id=84316, Accelerometer: x=-0.39, y=-0.29, z=0.84
+2015-02-04 17:04:50,592 INFO Id=84319, Gyro: x=-6.16, y=7.14, z=-0.79
+2015-02-04 17:04:50,592 INFO Id=84321, Stabilizer: Roll=-19.73, Pitch=-25.03, Yaw=3.60, Thrust=0.00
+2015-02-04 17:04:50,594 INFO Id=84323, Barometer: asl=162.5909
+2015-02-04 17:04:50,594 INFO Id=84327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:51,575 INFO Id=85316, Accelerometer: x=-0.51, y=-0.39, z=0.75
+2015-02-04 17:04:51,575 INFO Id=85319, Gyro: x=-0.06, y=8.85, z=-3.11
+2015-02-04 17:04:51,578 INFO Id=85321, Stabilizer: Roll=-26.62, Pitch=-31.42, Yaw=-2.86, Thrust=0.00
+2015-02-04 17:04:51,582 INFO Id=85323, Barometer: asl=162.5754
+2015-02-04 17:04:51,582 INFO Id=85327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:52,592 INFO Id=86316, Accelerometer: x=-0.47, y=-0.38, z=0.77
+2015-02-04 17:04:52,592 INFO Id=86319, Gyro: x=-7.51, y=7.45, z=-4.15
+2015-02-04 17:04:52,598 INFO Id=86321, Stabilizer: Roll=-26.27, Pitch=-30.21, Yaw=-1.15, Thrust=0.00
+2015-02-04 17:04:52,602 INFO Id=86323, Barometer: asl=162.5939
+2015-02-04 17:04:52,605 INFO Id=86327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:53,585 INFO Id=87316, Accelerometer: x=-0.74, y=-0.49, z=0.43
+2015-02-04 17:04:53,585 INFO Id=87319, Gyro: x=-62.01, y=59.14, z=5.98
+2015-02-04 17:04:53,585 INFO Id=87321, Stabilizer: Roll=-48.39, Pitch=-47.86, Yaw=4.36, Thrust=0.00
+2015-02-04 17:04:53,585 INFO Id=87323, Barometer: asl=162.4981
+2015-02-04 17:04:53,591 INFO Id=87327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:54,592 INFO Id=88316, Accelerometer: x=-0.48, y=-0.22, z=0.81
+2015-02-04 17:04:54,598 INFO Id=88319, Gyro: x=37.17, y=-37.84, z=8.36
+2015-02-04 17:04:54,599 INFO Id=88321, Stabilizer: Roll=-13.27, Pitch=-29.55, Yaw=18.88, Thrust=0.00
+2015-02-04 17:04:54,601 INFO Id=88323, Barometer: asl=162.4704
+2015-02-04 17:04:54,607 INFO Id=88327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:55,589 INFO Id=89316, Accelerometer: x=-0.21, y=0.13, z=0.95
+2015-02-04 17:04:55,589 INFO Id=89319, Gyro: x=14.89, y=-5.68, z=5.13
+2015-02-04 17:04:55,591 INFO Id=89321, Stabilizer: Roll=9.21, Pitch=-14.27, Yaw=29.55, Thrust=0.00
+2015-02-04 17:04:55,591 INFO Id=89323, Barometer: asl=162.6030
+2015-02-04 17:04:55,591 INFO Id=89327, Battery Voltage(V): vbat=3.7940
+
+2015-02-04 17:04:56,592 INFO Id=90316, Accelerometer: x=-0.18, y=0.17, z=0.95
+2015-02-04 17:04:56,592 INFO Id=90319, Gyro: x=-24.41, y=4.39, z=-20.32
+2015-02-04 17:04:56,594 INFO Id=90321, Stabilizer: Roll=11.08, Pitch=-10.63, Yaw=25.37, Thrust=0.00
+2015-02-04 17:04:56,595 INFO Id=90323, Barometer: asl=162.6888
+2015-02-04 17:04:56,601 INFO Id=90327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:57,601 INFO Id=91316, Accelerometer: x=0.14, y=-0.05, z=1.16
+2015-02-04 17:04:57,601 INFO Id=91319, Gyro: x=-18.74, y=15.32, z=-8.79
+2015-02-04 17:04:57,602 INFO Id=91321, Stabilizer: Roll=1.22, Pitch=1.91, Yaw=0.03, Thrust=0.00
+2015-02-04 17:04:57,602 INFO Id=91323, Barometer: asl=162.4596
+2015-02-04 17:04:57,602 INFO Id=91327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:58,581 INFO Id=92316, Accelerometer: x=-0.05, y=-0.17, z=1.07
+2015-02-04 17:04:58,581 INFO Id=92319, Gyro: x=49.32, y=21.48, z=-17.27
+2015-02-04 17:04:58,582 INFO Id=92321, Stabilizer: Roll=-4.33, Pitch=-4.05, Yaw=3.33, Thrust=0.00
+2015-02-04 17:04:58,582 INFO Id=92323, Barometer: asl=162.2868
+2015-02-04 17:04:58,582 INFO Id=92327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:04:59,582 INFO Id=93316, Accelerometer: x=0.12, y=-0.40, z=0.93
+2015-02-04 17:04:59,585 INFO Id=93319, Gyro: x=-55.60, y=-39.92, z=-18.80
+2015-02-04 17:04:59,589 INFO Id=93321, Stabilizer: Roll=-21.45, Pitch=5.40, Yaw=-9.09, Thrust=0.00
+2015-02-04 17:04:59,589 INFO Id=93323, Barometer: asl=162.3832
+2015-02-04 17:04:59,595 INFO Id=93327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:05:00,595 INFO Id=94316, Accelerometer: x=0.23, y=-0.23, z=0.93
+2015-02-04 17:05:00,595 INFO Id=94319, Gyro: x=0.06, y=-1.95, z=10.56
+2015-02-04 17:05:00,596 INFO Id=94321, Stabilizer: Roll=-13.21, Pitch=13.27, Yaw=-25.31, Thrust=0.00
+2015-02-04 17:05:00,598 INFO Id=94323, Barometer: asl=162.4096
+2015-02-04 17:05:00,604 INFO Id=94327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:05:01,605 INFO Id=95316, Accelerometer: x=0.41, y=-0.07, z=0.76
+2015-02-04 17:05:01,605 INFO Id=95319, Gyro: x=9.09, y=20.69, z=7.93
+2015-02-04 17:05:01,605 INFO Id=95321, Stabilizer: Roll=-12.88, Pitch=21.71, Yaw=-5.45, Thrust=0.00
+2015-02-04 17:05:01,605 INFO Id=95323, Barometer: asl=162.5591
+2015-02-04 17:05:01,605 INFO Id=95327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:05:02,585 INFO Id=96316, Accelerometer: x=0.25, y=-0.25, z=0.88
+2015-02-04 17:05:02,585 INFO Id=96319, Gyro: x=-6.90, y=101.99, z=65.73
+2015-02-04 17:05:02,586 INFO Id=96321, Stabilizer: Roll=-12.15, Pitch=8.45, Yaw=3.33, Thrust=0.00
+2015-02-04 17:05:02,586 INFO Id=96323, Barometer: asl=162.8022
+2015-02-04 17:05:02,586 INFO Id=96327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:05:03,594 INFO Id=97319, Gyro: x=4.52, y=2.08, z=10.38
+2015-02-04 17:05:03,624 INFO Id=97321, Stabilizer: Roll=-6.48, Pitch=-6.39, Yaw=-5.15, Thrust=0.00
+2015-02-04 17:05:03,624 INFO Id=97323, Barometer: asl=162.6223
+2015-02-04 17:05:03,624 INFO Id=97327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:05:04,605 INFO Id=98316, Accelerometer: x=-0.00, y=-0.12, z=0.99
+2015-02-04 17:05:04,605 INFO Id=98319, Gyro: x=-23.99, y=-25.33, z=-6.10
+2015-02-04 17:05:04,607 INFO Id=98321, Stabilizer: Roll=-6.38, Pitch=-0.98, Yaw=-8.90, Thrust=0.00
+2015-02-04 17:05:04,607 INFO Id=98323, Barometer: asl=162.5974
+2015-02-04 17:05:04,607 INFO Id=98327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:05:05,608 INFO Id=99316, Accelerometer: x=-0.14, y=-0.24, z=0.92
+2015-02-04 17:05:05,608 INFO Id=99319, Gyro: x=-32.47, y=13.79, z=45.47
+2015-02-04 17:05:05,608 INFO Id=99321, Stabilizer: Roll=-14.71, Pitch=-7.04, Yaw=-27.15, Thrust=0.00
+2015-02-04 17:05:05,608 INFO Id=99323, Barometer: asl=162.6743
+2015-02-04 17:05:05,608 INFO Id=99327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:05:06,586 INFO Id=100316, Accelerometer: x=-0.01, y=-0.28, z=0.93
+2015-02-04 17:05:06,586 INFO Id=100319, Gyro: x=6.84, y=-26.73, z=-16.11
+2015-02-04 17:05:06,586 INFO Id=100321, Stabilizer: Roll=-17.76, Pitch=-2.52, Yaw=-13.25, Thrust=0.00
+2015-02-04 17:05:06,586 INFO Id=100323, Barometer: asl=162.6870
+2015-02-04 17:05:06,586 INFO Id=100327, Battery Voltage(V): vbat=3.7940
+
+2015-02-04 17:05:07,588 INFO Id=101316, Accelerometer: x=0.25, y=-0.42, z=0.86
+2015-02-04 17:05:07,588 INFO Id=101319, Gyro: x=2.69, y=-1.77, z=-21.18
+2015-02-04 17:05:07,588 INFO Id=101321, Stabilizer: Roll=-23.69, Pitch=14.94, Yaw=-9.91, Thrust=0.00
+2015-02-04 17:05:07,588 INFO Id=101323, Barometer: asl=162.7584
+2015-02-04 17:05:07,588 INFO Id=101327, Battery Voltage(V): vbat=3.7940
+
+2015-02-04 17:05:08,591 INFO Id=102316, Accelerometer: x=0.04, y=-0.14, z=0.94
+2015-02-04 17:05:08,592 INFO Id=102319, Gyro: x=-17.76, y=-22.89, z=-33.81
+2015-02-04 17:05:08,598 INFO Id=102321, Stabilizer: Roll=-3.21, Pitch=5.19, Yaw=-67.29, Thrust=0.00
+2015-02-04 17:05:08,598 INFO Id=102323, Barometer: asl=162.8147
+2015-02-04 17:05:08,602 INFO Id=102327, Battery Voltage(V): vbat=3.7940
+
+2015-02-04 17:05:09,584 INFO Id=103316, Accelerometer: x=-0.02, y=-0.09, z=0.97
+2015-02-04 17:05:09,584 INFO Id=103319, Gyro: x=-43.70, y=0.61, z=-57.25
+2015-02-04 17:05:09,584 INFO Id=103321, Stabilizer: Roll=-3.09, Pitch=-2.10, Yaw=-113.87, Thrust=0.00
+2015-02-04 17:05:09,585 INFO Id=103323, Barometer: asl=162.9637
+2015-02-04 17:05:09,585 INFO Id=103327, Battery Voltage(V): vbat=3.7940
+
+2015-02-04 17:05:10,591 INFO Id=104316, Accelerometer: x=0.12, y=0.51, z=0.94
+2015-02-04 17:05:10,592 INFO Id=104319, Gyro: x=11.96, y=-37.66, z=-107.79
+2015-02-04 17:05:10,598 INFO Id=104321, Stabilizer: Roll=19.37, Pitch=-13.15, Yaw=-159.90, Thrust=0.00
+2015-02-04 17:05:10,598 INFO Id=104323, Barometer: asl=163.1344
+2015-02-04 17:05:10,602 INFO Id=104327, Battery Voltage(V): vbat=3.7940
+
+2015-02-04 17:05:11,584 INFO Id=105316, Accelerometer: x=0.05, y=0.20, z=1.08
+2015-02-04 17:05:11,584 INFO Id=105319, Gyro: x=-1.65, y=-10.19, z=1.95
+2015-02-04 17:05:11,585 INFO Id=105321, Stabilizer: Roll=18.82, Pitch=-1.57, Yaw=149.72, Thrust=0.00
+2015-02-04 17:05:11,589 INFO Id=105323, Barometer: asl=163.1176
+2015-02-04 17:05:11,589 INFO Id=105328, Battery Voltage(V): vbat=3.7940
+
+2015-02-04 17:05:12,592 INFO Id=106316, Accelerometer: x=0.29, y=0.04, z=1.00
+2015-02-04 17:05:12,592 INFO Id=106319, Gyro: x=-13.18, y=22.03, z=53.28
+2015-02-04 17:05:12,592 INFO Id=106321, Stabilizer: Roll=6.58, Pitch=5.83, Yaw=149.18, Thrust=0.00
+2015-02-04 17:05:12,592 INFO Id=106323, Barometer: asl=163.2838
+2015-02-04 17:05:12,592 INFO Id=106327, Battery Voltage(V): vbat=3.7940
+
+2015-02-04 17:05:13,592 INFO Id=107316, Accelerometer: x=0.28, y=0.06, z=1.17
+2015-02-04 17:05:13,592 INFO Id=107319, Gyro: x=6.04, y=-27.34, z=60.79
+2015-02-04 17:05:13,594 INFO Id=107321, Stabilizer: Roll=-2.04, Pitch=5.64, Yaw=-74.03, Thrust=0.00
+2015-02-04 17:05:13,594 INFO Id=107323, Barometer: asl=163.0166
+2015-02-04 17:05:13,594 INFO Id=107327, Battery Voltage(V): vbat=3.7940
+
+2015-02-04 17:05:14,595 INFO Id=108319, Gyro: x=-31.07, y=-13.98, z=-23.50
+2015-02-04 17:05:14,595 INFO Id=108321, Stabilizer: Roll=11.90, Pitch=9.44, Yaw=-61.15, Thrust=0.00
+2015-02-04 17:05:14,595 INFO Id=108323, Barometer: asl=162.7305
+2015-02-04 17:05:14,595 INFO Id=108327, Battery Voltage(V): vbat=3.7940
+
+2015-02-04 17:05:15,578 INFO Id=109316, Accelerometer: x=-0.12, y=0.01, z=1.00
+2015-02-04 17:05:15,578 INFO Id=109319, Gyro: x=-26.00, y=25.94, z=-68.91
+2015-02-04 17:05:15,578 INFO Id=109321, Stabilizer: Roll=5.85, Pitch=-14.68, Yaw=-156.09, Thrust=0.00
+2015-02-04 17:05:15,579 INFO Id=109323, Barometer: asl=162.8931
+2015-02-04 17:05:15,585 INFO Id=109327, Battery Voltage(V): vbat=3.7940
+
+2015-02-04 17:05:16,585 INFO Id=110316, Accelerometer: x=0.30, y=-0.68, z=0.66
+2015-02-04 17:05:16,585 INFO Id=110319, Gyro: x=26.18, y=102.60, z=-51.94
+2015-02-04 17:05:16,585 INFO Id=110321, Stabilizer: Roll=-33.46, Pitch=12.54, Yaw=-110.61, Thrust=0.00
+2015-02-04 17:05:16,586 INFO Id=110323, Barometer: asl=163.0632
+2015-02-04 17:05:16,586 INFO Id=110327, Battery Voltage(V): vbat=3.7940
+
+2015-02-04 17:05:17,586 INFO Id=111316, Accelerometer: x=-0.16, y=-0.15, z=1.00
+2015-02-04 17:05:17,586 INFO Id=111319, Gyro: x=-13.79, y=28.14, z=14.16
+2015-02-04 17:05:17,586 INFO Id=111321, Stabilizer: Roll=-11.49, Pitch=-12.44, Yaw=-114.07, Thrust=0.00
+2015-02-04 17:05:17,589 INFO Id=111323, Barometer: asl=163.0103
+2015-02-04 17:05:17,599 INFO Id=111327, Battery Voltage(V): vbat=3.7940
+
+2015-02-04 17:05:18,581 INFO Id=112316, Accelerometer: x=-0.36, y=-0.29, z=0.91
+2015-02-04 17:05:18,581 INFO Id=112319, Gyro: x=49.07, y=0.00, z=-18.86
+2015-02-04 17:05:18,582 INFO Id=112321, Stabilizer: Roll=-24.67, Pitch=-22.46, Yaw=-119.23, Thrust=0.00
+2015-02-04 17:05:18,585 INFO Id=112323, Barometer: asl=162.9057
+2015-02-04 17:05:18,589 INFO Id=112327, Battery Voltage(V): vbat=3.7940
+
+2015-02-04 17:05:19,589 INFO Id=113316, Accelerometer: x=-0.41, y=-0.35, z=0.69
+2015-02-04 17:05:19,589 INFO Id=113319, Gyro: x=81.97, y=-76.11, z=28.38
+2015-02-04 17:05:19,589 INFO Id=113321, Stabilizer: Roll=-27.08, Pitch=-18.91, Yaw=-109.65, Thrust=0.00
+2015-02-04 17:05:19,589 INFO Id=113323, Barometer: asl=162.9497
+2015-02-04 17:05:19,592 INFO Id=113327, Battery Voltage(V): vbat=3.7940
+
+2015-02-04 17:05:20,592 INFO Id=114316, Accelerometer: x=0.00, y=-0.03, z=0.96
+2015-02-04 17:05:20,592 INFO Id=114319, Gyro: x=6.59, y=-33.45, z=17.27
+2015-02-04 17:05:20,592 INFO Id=114321, Stabilizer: Roll=2.19, Pitch=4.24, Yaw=-108.25, Thrust=0.00
+2015-02-04 17:05:20,595 INFO Id=114323, Barometer: asl=162.8389
+2015-02-04 17:05:20,596 INFO Id=114327, Battery Voltage(V): vbat=3.7940
+
+2015-02-04 17:05:21,596 INFO Id=115316, Accelerometer: x=0.51, y=0.17, z=0.67
+2015-02-04 17:05:21,596 INFO Id=115319, Gyro: x=79.35, y=-72.94, z=-5.37
+2015-02-04 17:05:21,596 INFO Id=115321, Stabilizer: Roll=31.31, Pitch=41.90, Yaw=-125.64, Thrust=0.00
+2015-02-04 17:05:21,596 INFO Id=115323, Barometer: asl=162.9828
+2015-02-04 17:05:21,596 INFO Id=115327, Battery Voltage(V): vbat=3.7957
+
+2015-02-04 17:05:22,596 INFO Id=116316, Accelerometer: x=0.07, y=0.12, z=1.01
+2015-02-04 17:05:22,596 INFO Id=116319, Gyro: x=-35.71, y=-68.54, z=-47.67
+2015-02-04 17:05:22,596 INFO Id=116321, Stabilizer: Roll=10.66, Pitch=9.04, Yaw=-151.37, Thrust=0.00
+2015-02-04 17:05:22,596 INFO Id=116323, Barometer: asl=162.7516
+2015-02-04 17:05:22,596 INFO Id=116327, Battery Voltage(V): vbat=3.7960
+
+2015-02-04 17:05:23,596 INFO Id=117316, Accelerometer: x=-0.27, y=-0.29, z=0.81
+2015-02-04 17:05:23,596 INFO Id=117319, Gyro: x=20.57, y=-0.43, z=-0.31
+2015-02-04 17:05:23,598 INFO Id=117321, Stabilizer: Roll=-11.18, Pitch=-13.34, Yaw=-149.65, Thrust=0.00
+2015-02-04 17:05:23,598 INFO Id=117323, Barometer: asl=162.7005
+2015-02-04 17:05:23,602 INFO Id=117327, Battery Voltage(V): vbat=3.7940
+
+2015-02-04 17:05:23,950 WARNING Got link error callback [Too many packets lost] in state [2]
+2015-02-04 17:05:23,950 INFO Callback->Disconnected from [radio://0/100/250K]
+2015-02-04 17:05:23,950 INFO Callback->Connection lost to [radio://0/100/250K]: Too many packets lost

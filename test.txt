@@ -1,0 +1,4 @@
+2014-07-10 02:25:07,806 INFO Start reading database
+2014-07-10 02:25:07,851 DEBUG Records: {'john': 55, 'tom': 66}
+2014-07-10 02:25:07,851 INFO Updating records ...
+2014-07-10 02:25:07,851 INFO Finish updating records
